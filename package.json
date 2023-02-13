@@ -1,0 +1,15 @@
+{
+  "name": "simple_h_calculator",
+  "version": "1.0.0",
+  "description": "i t contain functions for addition(called add )and for multiplication (called multiply) and ,GET API to do addition of list of numbers and return their sum and Get API to do multiplication of an array of numbers and return the ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simple_calculator"
+  },
+  "author": "Hirwa Hope",
+  "license": "ISC"
+}
